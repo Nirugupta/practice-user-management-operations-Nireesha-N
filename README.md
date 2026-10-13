@@ -1,0 +1,3 @@
+# SQL User Management Operations Practice
+
+In this practice exercise, I practiced writing foundational SQL commands including data insertion (`INSERT`), record modifications (`UPDATE`), data removal (`DELETE`), and querying data using various filtering conditions (`WHERE`, `AND`, `OR`, `NOT`). Additionally, I explored advanced query operations such as column aliasing, string concatenation, sorting (`ORDER BY`), and result pagination using `LIMIT` and `OFFSET`. The most challenging part was carefully coordinating multi-condition filtering with logical operators and parentheses to ensure the correct subset of data was returned.
